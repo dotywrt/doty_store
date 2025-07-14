@@ -1,5 +1,14 @@
 [
 {
+  "id": "alpha-config",
+  "name": "Alpha config",
+  "package": "luci-app-alpha-config",
+  "version": "v2.1",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha-config/config.png",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha-config/luci-app-alpha-config_2.1_all.ipk"
+}
+,
+{
   "id": "alpha",
   "name": "Alpha",
   "package": "luci-theme-alpha",
