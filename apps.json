@@ -36,6 +36,15 @@
 }
 ,
 {
+  "id": "tailscale",
+  "name": "Tailscale",
+  "package": "luci-app-tailscale",
+  "version": "v1.2.6-r1",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/tailscale/tailscale.jpeg",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/tailscale/luci-app-tailscale_1.2.6-r1_all.ipk"
+}
+,
+{
   "id": "ttl",
   "name": "Ttl",
   "package": "luci-app-nft-ttl",
