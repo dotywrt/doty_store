@@ -18,6 +18,15 @@
 }
 ,
 {
+  "id": "material3",
+  "name": "Material3",
+  "package": "luci-theme-material3",
+  "version": "valpha-0.0.5",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/material3/rtawrt.png",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/material3/luci-theme-material3_alpha-0.0.5_all.ipk"
+}
+,
+{
   "id": "openclash",
   "name": "Openclash",
   "package": "luci-app-openclash",
