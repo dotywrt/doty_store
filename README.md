@@ -11,4 +11,4 @@
 - On your OpenWRT device, go to **DStore > Settings**, paste the URL, save, and update.
 
 
-### BY DOTYCAT @ www.dotycat.com @ t.me/dotycat
+### BY DOTYCAT @ www.dotycat.com @ https://t.me/dotycat
