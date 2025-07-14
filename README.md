@@ -6,8 +6,8 @@
 - Upload your `.ipk` file into that folder.
 - (Optional) To add an image for your app in the store, upload any image file (e.g., `.jpg`, `.png`) into the same folder.
 - Once you're done, take a break—or even smoke a cigarette, haha.
-- Go to the **Actions** tab in GitHub and run the workflow to automatically generate `store.json`.
-- After `store.json` is generated, copy the URL to the file.
+- Go to the **Actions** tab in GitHub and run the workflow to automatically generate `apps.json`.
+- After `apps.json` is generated, copy the URL to the file.
 - On your OpenWRT device, go to **DStore > Settings**, paste the URL, save, and update.
 
 
