@@ -29,7 +29,11 @@ for dir in app/*/; do
     version="v$version"
   fi
 
-  avatar_url="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/${avatar_file}"
+  if [ -n "$avatar_file" ]; then
+    avatar_url="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/${avatar_file}"
+  else
+    avatar_url="https://raw.githubusercontent.com/dotywrt/doty_store/main/doty.jpeg"
+  fi 
   ipk_url="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/${ipk_file}"
 
   if [ "$first" = true ]; then
