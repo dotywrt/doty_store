@@ -1,0 +1,46 @@
+[
+{
+  "id": "dstore",
+  "name": "Dstore",
+  "package": "luci-app-dstore",
+  "version": "v1.0-r1",
+  "avatar": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/dstore/dstore.jpeg",
+  "url": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/dstore/luci-app-dstore-v1.0-r1.ipk"
+}
+,
+{
+  "id": "openclash",
+  "name": "Openclash",
+  "package": "luci-app-openclash",
+  "version": "v0.46.120",
+  "avatar": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/openclash/openclash.png",
+  "url": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/openclash/luci-app-openclash_0.46.120_all.ipk"
+}
+,
+{
+  "id": "passwall",
+  "name": "Passwall",
+  "package": "luci-app-passwall",
+  "version": "v4.66-8",
+  "avatar": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/passwall/passwall.jpg",
+  "url": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/passwall/luci-app-passwall_4.66-8_all.ipk"
+}
+,
+{
+  "id": "passwall2",
+  "name": "Passwall2",
+  "package": "luci-app-passwall2",
+  "version": "v25.5.15-r1",
+  "avatar": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/passwall2/passwall.jpg",
+  "url": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/passwall2/luci-app-passwall2_25.5.15-r1_all.ipk"
+}
+,
+{
+  "id": "ttl",
+  "name": "Ttl",
+  "package": "luci-app-nft-ttl",
+  "version": "v1.0-r1",
+  "avatar": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/ttl/ttl.png",
+  "url": "https://raw.githubusercontent.com/NuhaHumaira/doty_store/main/app/ttl/luci-app-nft-ttl_1.0-r1_all.ipk"
+}
+]
