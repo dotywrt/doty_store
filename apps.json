@@ -45,6 +45,15 @@
 }
 ,
 {
+  "id": "netstat",
+  "name": "Netstat",
+  "package": "luci-app-netstat",
+  "version": "v1.0-r3",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/netstat/netstat.png",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/netstat/luci-app-netstat-v1.0-r3.ipk"
+}
+,
+{
   "id": "openclash",
   "name": "Openclash",
   "package": "luci-app-openclash",
