@@ -7,7 +7,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha-config/config.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha-config/luci-app-alpha-config_2.1_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -18,7 +18,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha/rtawrt.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha/luci-theme-alpha_3.9.7-beta-10_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -29,7 +29,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/dstore.jpeg",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/luci-app-dstore_1.0-r1_all.ipk",
   "author": "DotyCat.Com",
-  "updated": "2025-07-18"
+  "updated": "2025-07-15"
 }
 ,
 {
@@ -40,7 +40,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/kucat/rtawrt.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/kucat/luci-theme-kucat_2.5.7-r20250322_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -51,7 +51,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/material3/rtawrt.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/material3/luci-theme-material3_alpha-0.0.5_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -73,7 +73,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/openclash/openclash.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/openclash/luci-app-openclash_0.46.120_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -84,7 +84,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/passwall/passwall.jpg",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/passwall/luci-app-passwall_4.66-8_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -95,7 +95,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/passwall2/passwall.jpg",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/passwall2/luci-app-passwall2_25.5.15-r1_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -106,7 +106,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/rtawrt/rtawrt.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/rtawrt/luci-theme-rtawrt_1.0.3-r07032025_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -117,7 +117,7 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/tailscale/tailscale.jpeg",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/tailscale/luci-app-tailscale_1.2.6-r1_all.ipk",
   "author": "Unknown",
-  "updated": "2025-07-18"
+  "updated": "2025-07-14"
 }
 ,
 {
@@ -128,6 +128,6 @@
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/ttl/ttl.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/ttl/luci-app-nft-ttl_1.0-r1_all.ipk",
   "author": "DotyCat.Com",
-  "updated": "2025-07-18"
+  "updated": "2025-07-15"
 }
 ]
