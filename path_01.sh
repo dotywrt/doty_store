@@ -44,8 +44,11 @@ for dir in app/*/; do
     author="Unknown"
   fi
 
-  # Get upload (commit) date from git log
-  updated=$(git log -1 --format="%ad" --date=short -- "$ipk_file")
+  # Get upload (commit) date from git log, fallback to today if empty
+  updated=$(git log -1 --format="%ad" --date=short -- "$ipk_file" 2>/dev/null)
+  if [ -z "$updated" ]; then
+    updated=$(date -u +"%Y-%m-%d")
+  fi
 
   if [ "$first" = true ]; then
     first=false
