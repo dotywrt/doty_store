@@ -132,6 +132,17 @@
 }
 ,
 {
+  "id": "tinyfilemanager",
+  "name": "Tinyfilemanager",
+  "package": "luci-app-tinyfilemanager",
+  "version": "v2.6-r20241213",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/tinyfilemanager/file-manager-10.png",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/tinyfilemanager/luci-app-tinyfilemanager_2.6-r20241213_all.ipk",
+  "author": "Unknown",
+  "updated": "2025-07-18"
+}
+,
+{
   "id": "ttl",
   "name": "Ttl",
   "package": "luci-app-nft-ttl",
