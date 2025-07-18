@@ -44,8 +44,8 @@ for dir in app/*/; do
     author="Unknown"
   fi
 
-  # Get last modified date of ipk file in YYYY-MM-DD format
-  updated=$(date -u -r "$ipk_file" +"%Y-%m-%d")
+  # Get upload (commit) date from git log
+  updated=$(git log -1 --format="%ad" --date=short -- "$ipk_file")
 
   if [ "$first" = true ]; then
     first=false
