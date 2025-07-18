@@ -25,9 +25,9 @@
   "id": "dstore",
   "name": "Dstore",
   "package": "luci-app-dstore",
-  "version": "v1.0-r2",
+  "version": "v1.0-r3",
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/dstore.jpeg",
-  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/luci-app-dstore-v1.0-r2.ipk",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/luci-app-dstore-v1.0-r3.ipk",
   "author": "DotyCat.Com",
   "updated": "2025-07-18"
 }
