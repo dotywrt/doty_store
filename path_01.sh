@@ -19,7 +19,6 @@ for dir in app/*/; do
     package=$(echo "$base_name" | cut -d_ -f1)
     version=$(echo "$base_name" | cut -d_ -f2)
   else
-    # Assume format: name-v1.0-r1 (hyphen-based)
     package=$(echo "$base_name" | sed -E 's/(.*)-v?[0-9].*/\1/')
     version=$(echo "$base_name" | sed -E 's/.*-v?([0-9].*)/\1/')
   fi
@@ -34,7 +33,19 @@ for dir in app/*/; do
   else
     avatar_url="https://raw.githubusercontent.com/dotywrt/doty_store/main/doty.jpeg"
   fi 
+
   ipk_url="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/${ipk_file}"
+
+  # Get author from author.txt if available
+  author_file="$dir/author.txt"
+  if [ -f "$author_file" ]; then
+    author=$(cat "$author_file" | tr -d '\n')
+  else
+    author="Unknown"
+  fi
+
+  # Get last modified date of ipk file in YYYY-MM-DD format
+  updated=$(date -u -r "$ipk_file" +"%Y-%m-%d")
 
   if [ "$first" = true ]; then
     first=false
@@ -49,7 +60,9 @@ for dir in app/*/; do
   "package": "$package",
   "version": "$version",
   "avatar": "$avatar_url",
-  "url": "$ipk_url"
+  "url": "$ipk_url",
+  "author": "$author",
+  "updated": "$updated"
 }
 EOF
 
