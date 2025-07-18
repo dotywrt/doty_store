@@ -28,7 +28,7 @@
   "version": "v1.0-r1",
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/dstore.jpeg",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/luci-app-dstore_1.0-r1_all.ipk",
-  "author": "Unknown",
+  "author": "DotyCat",
   "updated": "2025-07-18"
 }
 ,
@@ -61,7 +61,7 @@
   "version": "v1.0-r3",
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/netstat/netstat.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/netstat/luci-app-netstat-v1.0-r3.ipk",
-  "author": "Unknown",
+  "author": "DotyCat",
   "updated": "2025-07-18"
 }
 ,
@@ -127,7 +127,7 @@
   "version": "v1.0-r1",
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/ttl/ttl.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/ttl/luci-app-nft-ttl_1.0-r1_all.ipk",
-  "author": "Unknown",
+  "author": "DotyCat",
   "updated": "2025-07-18"
 }
 ]
