@@ -26,7 +26,7 @@
   "name": "Aw1k led",
   "package": "luci-app-aw1k-led",
   "version": "v1.0-r1",
-  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/doty.jpeg",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/aw1k-led/led.jpg",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/aw1k-led/luci-app-aw1k-led_1.0-r1_all.ipk",
   "author": "Dotycat.com",
   "updated": "2025-08-05"
