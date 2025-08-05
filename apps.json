@@ -130,15 +130,4 @@
   "author": "Unknown",
   "updated": "2025-07-14"
 }
-,
-{
-  "id": "ttl",
-  "name": "Ttl",
-  "package": "luci-app-nft-ttl",
-  "version": "v1.0-r2",
-  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/ttl/ttl.png",
-  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/ttl/luci-app-nft-ttl-v1.0-r2.ipk",
-  "author": "DotyCat.Com",
-  "updated": "2025-07-22"
-}
 ]
