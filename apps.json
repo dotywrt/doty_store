@@ -110,6 +110,17 @@
 }
 ,
 {
+  "id": "peditx",
+  "name": "Peditx",
+  "package": "luci-theme-peditx",
+  "version": "v1.2.3-01",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/peditx/rtawrt.png",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/peditx/luci-theme-peditx_1.2.3-01_all.ipk",
+  "author": "Peditx",
+  "updated": "2025-08-05"
+}
+,
+{
   "id": "rtawrt",
   "name": "Rtawrt",
   "package": "luci-theme-rtawrt",
