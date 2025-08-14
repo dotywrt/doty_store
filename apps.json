@@ -22,17 +22,6 @@
 }
 ,
 {
-  "id": "aw1k-led",
-  "name": "Aw1k led",
-  "package": "luci-app-aw1k-led",
-  "version": "v1.0-r4",
-  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/aw1k-led/led.jpg",
-  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/aw1k-led/luci-app-aw1k-led_1.0-r4_all.ipk",
-  "author": "Dotycat.com",
-  "updated": "2025-08-07"
-}
-,
-{
   "id": "dstore",
   "name": "Dstore",
   "package": "luci-app-dstore",
