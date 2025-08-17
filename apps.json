@@ -33,6 +33,17 @@
 }
 ,
 {
+  "id": "dstore",
+  "name": "Dstore",
+  "package": "luci-app-dstore",
+  "version": "v1.2-r4",
+  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/dstore.jpeg",
+  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/dstore/luci-app-dstore_1.2-r4_all.ipk",
+  "author": "DotyCat.Com",
+  "updated": "2025-08-17"
+}
+,
+{
   "id": "kucat",
   "name": "Kucat",
   "package": "luci-theme-kucat",
