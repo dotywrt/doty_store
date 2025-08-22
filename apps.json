@@ -22,17 +22,6 @@
 }
 ,
 {
-  "id": "kucat",
-  "name": "Kucat",
-  "package": "luci-theme-kucat",
-  "version": "v2.5.7-r20250322",
-  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/kucat/rtawrt.png",
-  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/kucat/luci-theme-kucat_2.5.7-r20250322_all.ipk",
-  "author": "Unknown",
-  "updated": "2025-07-14"
-}
-,
-{
   "id": "netstat",
   "name": "Netstat",
   "package": "luci-app-netstat",
