@@ -1,16 +1,5 @@
 [
 {
-  "id": "alpha-config",
-  "name": "Alpha config",
-  "package": "luci-app-alpha-config",
-  "version": "v2.1",
-  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha-config/config.png",
-  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha-config/luci-app-alpha-config_2.1_all.ipk",
-  "author": "Unknown",
-  "updated": "2025-07-14"
-}
-,
-{
   "id": "alpha",
   "name": "Alpha",
   "package": "luci-theme-alpha",
@@ -50,17 +39,6 @@
   "version": "v2.5.7-r20250322",
   "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/kucat/rtawrt.png",
   "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/kucat/luci-theme-kucat_2.5.7-r20250322_all.ipk",
-  "author": "Unknown",
-  "updated": "2025-07-14"
-}
-,
-{
-  "id": "material3",
-  "name": "Material3",
-  "package": "luci-theme-material3",
-  "version": "valpha-0.0.5",
-  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/material3/rtawrt.png",
-  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/material3/luci-theme-material3_alpha-0.0.5_all.ipk",
   "author": "Unknown",
   "updated": "2025-07-14"
 }
