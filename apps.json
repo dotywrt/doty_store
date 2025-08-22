@@ -1,16 +1,5 @@
 [
 {
-  "id": "alpha",
-  "name": "Alpha",
-  "package": "luci-theme-alpha",
-  "version": "v3.9.7-beta-10",
-  "avatar": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha/rtawrt.png",
-  "url": "https://raw.githubusercontent.com/dotywrt/doty_store/main/app/alpha/luci-theme-alpha_3.9.7-beta-10_all.ipk",
-  "author": "Unknown",
-  "updated": "2025-07-14"
-}
-,
-{
   "id": "aw1k-led",
   "name": "Aw1k led",
   "package": "luci-app-aw1k-led",
